@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Pedro Augusto Nunes
 
-- 🔭 EStou estudando Eng. de Software
+- 🔭 Estou estudando Eng. de Software
   
-- 🌱 Aprendendo:
+- 🌱 Aprendendo mais sobre:
   - Python
   - SQL
 
