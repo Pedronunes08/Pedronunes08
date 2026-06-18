@@ -24,3 +24,5 @@
   <a href="https://www.linkedin.com/in/pedro-augusto-nunes-761226378" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![snake gif](https://github.com/Pedronunes08/Pedronunes08/blob/output/github-snake-dark.svg)
