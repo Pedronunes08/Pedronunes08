@@ -26,3 +26,6 @@
 </div>
 
 ![snake gif](https://github.com/Pedronunes08/Pedronunes08/blob/output/github-snake-dark.svg)
+
+
+<img src=“https://github.com/Pedronunes08/Gif2/blob/main/giphy.gif” width=“100px”>
